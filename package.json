@@ -55,4 +55,9 @@
     "arrowParens": "always",
     "endOfLine": "lf"
   }
+  {
+  "engines": {
+    "node": "18.x"
+  }
+}
 }
